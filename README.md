@@ -18,6 +18,21 @@ Upstream 这个代码仓用于帮助商业训练营的同学们完成作业。
 8. 提交PR
 9. 完成实验后，可以在训练营官网排行榜处查看成绩 [导学阶段 - 第一期源起之道开源商业创新营 - 源起之道开源商业创新营 - 训练营](https://opencamp.cn/UpstreamLabs/camp/S1/stage/0?tab=rank)
 
+## 基础阶段第一课作业
+
+### 作业要求
+在 [assignments/lesson1](assignments/lesson1) 目录下，选择以下任一开源商业模式进行分析，并提交分析报告：
+- Odoo 商业模式
+- 安卓商业模式
+- 红帽商业模式
+- Linux 基金会商业模式
+- Apache 商业模式
+
+### 提交方式
+1. 复制 [assignments/lesson1/example-report.md](assignments/lesson1/example-report.md) 并重命名为您的 GitHub 用户名
+2. 按照模板要求完成分析报告
+3. 提交 Pull Request
+
 ## 自动评分系统
 
 本仓库包含一个自动评分系统，用于评估学员在GitHub上的参与度和贡献。评分系统会根据以下指标自动计算分数：
@@ -30,6 +45,7 @@ Upstream 这个代码仓用于帮助商业训练营的同学们完成作业。
 | 已解决的Issues | 20分/个 | 每解决一个issue得20分 |
 | Pull Requests | 30分/个 | 每提交一个PR得30分 |
 | 个人文章提交 | 20分 | 提交以自己GitHub用户名命名的.md文章得20分 |
+| 开源商业模式分析报告 | 100分 | 完成并提交分析报告 |
 
 ### 总分说明
 
